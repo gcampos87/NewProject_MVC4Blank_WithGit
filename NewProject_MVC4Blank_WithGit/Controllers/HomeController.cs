@@ -16,7 +16,7 @@ namespace NewProject_MVC4Blank_WithGit.Controllers
             return Content("HomeController");
         }
 
-		public ActionResult About()
+        public ActionResult About()
         {
             return Content("AboutController");
 
@@ -26,4 +26,5 @@ namespace NewProject_MVC4Blank_WithGit.Controllers
         {
             return Content("SearchController");
         }
+    }
 }
