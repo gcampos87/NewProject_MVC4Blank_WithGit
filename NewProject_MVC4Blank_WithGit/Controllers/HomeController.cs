@@ -16,5 +16,10 @@ namespace NewProject_MVC4Blank_WithGit.Controllers
             return Content("HomeController");
         }
 
+        public ActionResult About()
+        {
+            return Content("AboutController");
+        }
+
     }
 }
