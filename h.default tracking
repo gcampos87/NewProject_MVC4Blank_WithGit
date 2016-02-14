@@ -1,0 +1,61 @@
+[33mcommit 5b83a013efef28a2521ee77dd68d8934aa707ac0[m
+Merge: 2f9d09c d57ae53
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 17:10:18 2016 -0300
+
+    merge con winmerge, configurado en .git config
+
+[33mcommit 2f9d09c024d8aeb46bcd9721ffef8c3ba3e1a795[m
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 17:05:10 2016 -0300
+
+    cambio en master
+
+[33mcommit d57ae533d07ea87ded9e30be03ee5a2c8f679425[m
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 17:03:30 2016 -0300
+
+    cambios en testbranch
+
+[33mcommit ec04df17029c6058f9448c7e01494191d604a69b[m
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 16:59:42 2016 -0300
+
+    correccion
+
+[33mcommit 18453a06f0778414c702d0057802da14138736dc[m
+Merge: a901dd8 41084b4
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 16:47:43 2016 -0300
+
+    Merge
+
+[33mcommit 41084b45f2be053445ff45fde0a6b1528eb725d4[m
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 16:39:41 2016 -0300
+
+    Agregando el SearchController al TestBranch
+
+[33mcommit a901dd87697f43938db52651c4634b10ad6d0add[m
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 16:38:02 2016 -0300
+
+    Agregando el AboutController en master
+
+[33mcommit 0486f97a6746820de175f3136cc92b6ae8a37ecb[m
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 16:08:52 2016 -0300
+
+    Agrego HomeController
+
+[33mcommit 4e2b63facfcfae8092b30dad62ae83713b153b9f[m
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 15:59:02 2016 -0300
+
+    agregando el proyecto inicial
+
+[33mcommit 182bd8f8eaed4dfa8ff50255dbf7502d01742e85[m
+Author: German Campos <gcampos@nosis.interno>
+Date:   Fri Feb 12 15:57:29 2016 -0300
+
+    agregando el archivo de exclusiones
